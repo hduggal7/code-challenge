@@ -144,7 +144,7 @@ namespace code_challenge.Tests.Integration
             // Arrange
             var employee = new Employee()
             {
-                EmployeeId = "Invalid_Id",
+                EmployeeId = "Invalid_Id ",
                 Department = "Music",
                 FirstName = "Sunny",
                 LastName = "Bono",
